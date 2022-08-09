@@ -1,0 +1,7 @@
+flask
+gunicorn
+sklearn
+numpy
+scipy
+flask_wtf
+pandas
